@@ -1,0 +1,15 @@
+{
+  "name": "fuckitup-skype",
+  "version": "1.0.0",
+  "description": "A bot that fucks up your text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victor Veytsman",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.12.0",
+    "restify": "^6.3.4"
+  }
+}
